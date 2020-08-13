@@ -1,4 +1,4 @@
-package com.strawhat.cloud.annotation;
+package com.strawhat.annotation;
 
 
 import java.lang.annotation.*;
